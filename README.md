@@ -1,1 +1,1 @@
-# Churn-prediction
+This my project on bank customer churn prediction. I used artificial neural network to predict whether a bank customer is loyal or not( predict whether a customer continues with their account or closes it (e.g., churns)) 
